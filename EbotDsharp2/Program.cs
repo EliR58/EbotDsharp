@@ -25,7 +25,7 @@ namespace EbotDSharp2
 
             discord = new DiscordClient(new DiscordConfiguration
             {
-                Token = "NDA1NTg5MTc3MTE2MTMxMzQ5.DWL1Sg.v0V1iVq0WzeO2679lUWm1eQMZDg",
+                Token = "",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = true,
                 LogLevel = LogLevel.Debug,
